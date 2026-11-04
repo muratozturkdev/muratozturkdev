@@ -81,7 +81,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
     <td width="33%" valign="top">
       <img src="assets/icon-kidai.png" width="52" alt="KidAI icon"><br>
       <b>KidAI: Storytime Magic</b><br>
-      <sub>Bedtime stories written and read aloud by AI. One Compose Multiplatform codebase, Gemini and ElevenLabs.</sub><br>
+      <sub>Bedtime stories that star your child, painted and read aloud in five languages. One Compose Multiplatform codebase, my own GPU workers.</sub><br>
       <sub><a href="https://kidai.app">kidai.app</a> · <a href="https://apps.apple.com/tr/app/kidai-storytime-magic/id6746138096">App Store</a> · <a href="https://play.google.com/store/apps/details?id=app.kidai">Google Play</a></sub>
     </td>
     <td width="33%" valign="top">
@@ -130,7 +130,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
   <img alt="Kotlin, Swift, Java, Android Studio, Flutter, TypeScript, Node.js, NestJS, Express, .NET, C#, PostgreSQL, Prisma, React, Next.js, Firebase, Docker, Git, three.js, Electron" src="https://skillicons.dev/icons?i=kotlin%2Cswift%2Cjava%2Candroidstudio%2Cflutter%2Cts%2Cnodejs%2Cnestjs%2Cexpress%2Cdotnet%2Ccs%2Cpostgres%2Cprisma%2Creact%2Cnextjs%2Cfirebase%2Cdocker%2Cgit%2Cthreejs%2Celectron&theme=light&perline=10">
 </picture>
 
-<sub>Jetpack Compose · SwiftUI · Kotlin Multiplatform · Compose Multiplatform · Coroutines & Flow · Hilt · Koin · Ktor · Room · Retrofit · MVVM · MVI · Clean Architecture · OpenAI · Gemini · ElevenLabs</sub>
+<sub>Jetpack Compose · SwiftUI · Kotlin Multiplatform · Compose Multiplatform · Coroutines & Flow · Hilt · Koin · Ktor · Room · Retrofit · MVVM · MVI · Clean Architecture · OpenAI · Claude · Gemini · FLUX</sub>
 
 <br><br>
 
