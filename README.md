@@ -52,10 +52,10 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <sub><a href="https://autopartfinder.net">autopartfinder.net</a> · <a href="https://apps.apple.com/tr/app/apf-auto-part-finder/id6820951022">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.autopartfinder.mobile">Google Play</a></sub>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/icon-sambamobile.png" width="52" alt="Samba Mobile icon"><br>
-      <b>Samba Mobile</b><br>
-      <sub>Waiters take orders and payments at the table, synced live with SambaPOS. One Compose Multiplatform codebase.</sub><br>
-      <sub><a href="https://apps.apple.com/tr/app/samba-mobile/id6807137864">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.liwasoft.mobileclient">Google Play</a></sub>
+      <img src="assets/icon-uris.png" width="52" alt="Uris icon"><br>
+      <b>Uris Pro · Kids · 360</b><br>
+      <sub>Live staff and school transport for passengers, drivers and fleet managers. 1K+ installs, 4.6 on the App Store.</sub><br>
+      <sub><a href="https://apps.apple.com/tr/app/uris-pro/id6757388425">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.uristech.uris">Google Play</a></sub>
     </td>
   </tr>
   <tr>
@@ -66,16 +66,16 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <sub><a href="https://apps.apple.com/tr/app/easyhr-ai-platform/id6791637017">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.tlsyazilim.easyhr">Google Play</a></sub>
     </td>
     <td width="33%" valign="top">
+      <img src="assets/icon-sambamobile.png" width="52" alt="Samba Mobile icon"><br>
+      <b>Samba Mobile</b><br>
+      <sub>Waiters take orders and payments at the table, synced live with SambaPOS. One Compose Multiplatform codebase.</sub><br>
+      <sub><a href="https://apps.apple.com/tr/app/samba-mobile/id6807137864">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.liwasoft.mobileclient">Google Play</a></sub>
+    </td>
+    <td width="33%" valign="top">
       <img src="assets/icon-generatetr.png" width="52" alt="generate.tr icon"><br>
       <b>generate.tr</b><br>
       <sub>Browser tools for app makers: store screenshots, AI icons, localisation. Seven apps, one sign-in, 35 languages.</sub><br>
       <sub><a href="https://generate.tr">generate.tr</a> · <a href="https://screenshot.generate.tr">screenshot</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="assets/icon-uris.png" width="52" alt="Uris icon"><br>
-      <b>Uris Pro · Kids · 360</b><br>
-      <sub>Live staff and school transport for passengers, drivers and fleet managers. 1K+ installs, 4.6 on the App Store.</sub><br>
-      <sub><a href="https://apps.apple.com/tr/app/uris-pro/id6757388425">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.uristech.uris">Google Play</a></sub>
     </td>
   </tr>
   <tr>
