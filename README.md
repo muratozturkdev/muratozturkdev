@@ -1,7 +1,7 @@
 <a href="https://muratozturk.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Murat Öztürk. Mobile developer: Android, iOS and Kotlin Multiplatform. Based in İstanbul." src="assets/banner-light.svg" width="100%">
+    <img alt="Murat ÖZTÜRK. Mobile developer: Android, iOS and Kotlin Multiplatform. Based in İstanbul." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
