@@ -97,6 +97,14 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <sub><a href="https://github.com/muratozturkdev/Mova">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.muratozturk.mova">Google Play</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="assets/icon-homescape.png" width="52" alt="Homescape icon"><br>
+      <b>Homescape</b><br>
+      <sub>A Home Assistant home as a live 3D dollhouse in the browser. No model files: every 3D object is generated in code, and I wrote that code with AI. 14 languages.</sub><br>
+      <sub><a href="https://homescape.muratozturk.dev">Live demo</a> · <a href="https://github.com/muratozturkdev/homescape">GitHub</a></sub>
+    </td>
+  </tr>
 </table>
 
 <sub>Open source too: <a href="https://github.com/muratozturkdev/Mova">Mova</a>, <a href="https://github.com/muratozturkdev/OpenAI-Dall-E-2">OpenAI DALL·E 2 client</a>, <a href="https://github.com/muratozturkdev/Kotlin-Order-Food-App">Order Food app</a>, and merged pull requests to <a href="https://github.com/vorssaint/vorssaint-utils/pulls?q=is%3Apr+author%3Amuratozturkdev">vorssaint-utils</a> (30k stars).</sub>
