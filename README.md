@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://muratozturk.dev"><img alt="muratozturk.dev" src="https://img.shields.io/badge/muratozturk.dev-ff4f1f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muratozturk5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-12110f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muratozturkdev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-12110f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hello@muratozturk.dev"><img alt="hello@muratozturk.dev" src="https://img.shields.io/badge/hello%40muratozturk.dev-12110f?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://muratozturk.dev/cv/Murat-Ozturk-CV-EN.pdf"><img alt="Download CV" src="https://img.shields.io/badge/CV-PDF-12110f?style=for-the-badge&labelColor=12110f&color=ff4f1f"></a>
 </p>
@@ -94,12 +94,12 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <img src="assets/icon-mova.png" width="52" alt="Mova icon"><br>
       <b>Mova</b><br>
       <sub>My most starred repo: a TMDb movie app built as a clean architecture reference, also on Google Play.</sub><br>
-      <sub><a href="https://github.com/muratozturk5/Mova">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.muratozturk.mova">Google Play</a></sub>
+      <sub><a href="https://github.com/muratozturkdev/Mova">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.muratozturk.mova">Google Play</a></sub>
     </td>
   </tr>
 </table>
 
-<sub>Open source too: <a href="https://github.com/muratozturk5/Mova">Mova</a>, <a href="https://github.com/muratozturk5/OpenAI-Dall-E-2">OpenAI DALL·E 2 client</a>, <a href="https://github.com/muratozturk5/Kotlin-Order-Food-App">Order Food app</a>, and merged pull requests to <a href="https://github.com/vorssaint/vorssaint-utils/pulls?q=is%3Apr+author%3Amuratozturk5">vorssaint-utils</a> (30k stars).</sub>
+<sub>Open source too: <a href="https://github.com/muratozturkdev/Mova">Mova</a>, <a href="https://github.com/muratozturkdev/OpenAI-Dall-E-2">OpenAI DALL·E 2 client</a>, <a href="https://github.com/muratozturkdev/Kotlin-Order-Food-App">Order Food app</a>, and merged pull requests to <a href="https://github.com/vorssaint/vorssaint-utils/pulls?q=is%3Apr+author%3Amuratozturkdev">vorssaint-utils</a> (30k stars).</sub>
 
 <br><br>
 
@@ -141,4 +141,4 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
   </picture>
 </h3>
 
-Got an app in mind, a role to fill or a question about Android, iOS or KMP? Write to **[hello@muratozturk.dev](mailto:hello@muratozturk.dev)** or find me on **[LinkedIn](https://www.linkedin.com/in/muratozturk5)**. I usually reply within a day.
+Got an app in mind, a role to fill or a question about Android, iOS or KMP? Write to **[hello@muratozturk.dev](mailto:hello@muratozturk.dev)** or find me on **[LinkedIn](https://www.linkedin.com/in/muratozturkdev)**. I usually reply within a day.
